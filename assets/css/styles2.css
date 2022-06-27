@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0%;
     background-image: url("https://www.gratistodo.com/wp-content/uploads/2016/07/pokemon-wallpapers-17.jpg");
-    background-size: 100% 100%;
+    background-size: 100% 115%;
 }
 
 h1{
@@ -31,7 +31,7 @@ h2{
     grid-template-columns: 25% 25% 25%;
     justify-content: center;
     gap: 20px;
-    padding: 4.5%;
+    padding: 5%;
 }
 
 .stickers img {
@@ -42,7 +42,6 @@ h2{
     display: flex;
     flex-direction: column;
     border: solid;
-    padding: 5%;
     align-items: center;
     transition: transform 150ms;
     background-color: #9cbe1f;
