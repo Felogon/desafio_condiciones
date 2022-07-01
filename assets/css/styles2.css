@@ -31,7 +31,7 @@ h2{
     grid-template-columns: 25% 25% 25%;
     justify-content: center;
     gap: 20px;
-    padding: 5%;
+    padding: 9%;
 }
 
 .stickers img {
